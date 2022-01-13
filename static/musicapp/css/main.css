@@ -1,0 +1,24 @@
+.bg-light{
+    background : url(https://i0.wp.com/media4.giphy.com/media/ij1WvlilscRFoIRn7u/giphy.gif)!important;
+    
+    background-repeat: repeat;
+    background-size: contain!important;
+}
+.bg-primary{
+    background: rgb(0,0,0,0.7)!important;
+}
+.section-heading{
+    color:aliceblue!important;
+}
+.btn-primary {
+    color: #fff;
+    background: rgb(0, 0, 0) 85%;
+    border-color: #3b3b3b;
+}
+.btn{
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition-property: color, background-color, border-color, box-shadow;
+    transition-duration: 0.15s, 0.15s, 0.15s, 0.15s;
+    transition-timing-function: ease-in-out, ease-in-out, ease-in-out, ease-in-out;
+    transition-delay: 0s, 0s, 0s, 0s ;
+}
