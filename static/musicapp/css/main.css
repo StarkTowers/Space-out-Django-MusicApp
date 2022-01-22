@@ -1,8 +1,5 @@
 .bg-light{
-    background : url(https://i0.wp.com/media4.giphy.com/media/ij1WvlilscRFoIRn7u/giphy.gif)!important;
-    
-    background-repeat: repeat;
-    background-size: contain!important;
+    background :#dc3545!important;
 }
 .bg-primary{
     background: rgb(0,0,0,0.7)!important;
@@ -11,8 +8,8 @@
     color:aliceblue!important;
 }
 .btn-primary {
-    color: #fff;
-    background: rgb(0, 0, 0) 85%;
+    color: rgb(0, 0, 0);
+    background: rgb(252, 252, 252) 85%;
     border-color: #3b3b3b;
 }
 .btn{
